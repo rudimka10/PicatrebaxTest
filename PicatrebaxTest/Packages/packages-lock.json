@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.hamstersgaming.editortools": {
+      "version": "https://github.com/Hamsters-Gaming/EditorTools.git#1.0.4",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "268cef6d58c3e1930925259f31dc6c6c4e34b9a4"
+    },
     "com.unity.2d.animation": {
       "version": "7.0.3",
       "depth": 1,
