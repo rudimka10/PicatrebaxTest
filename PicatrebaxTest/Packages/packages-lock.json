@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "268cef6d58c3e1930925259f31dc6c6c4e34b9a4"
     },
+    "com.hamstersgaming.pool": {
+      "version": "https://github.com/Hamsters-Gaming/Pool.git#1.1.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "bf97922282c672e5bf2bddfbc3641c8741f104cc"
+    },
     "com.unity.2d.animation": {
       "version": "7.0.3",
       "depth": 1,

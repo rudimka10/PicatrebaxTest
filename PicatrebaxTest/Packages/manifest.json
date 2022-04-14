@@ -41,6 +41,7 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
-    "com.hamstersgaming.editortools": "https://github.com/Hamsters-Gaming/EditorTools.git#1.0.4"
+    "com.hamstersgaming.editortools": "https://github.com/Hamsters-Gaming/EditorTools.git#1.0.4",
+    "com.hamstersgaming.pool": "https://github.com/Hamsters-Gaming/Pool.git#1.1.0"
   }
 }

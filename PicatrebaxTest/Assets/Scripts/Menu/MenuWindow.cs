@@ -7,7 +7,7 @@ namespace UI.MainMenu
     {
         public void OnStartClick()
         {
-            SceneManager.LoadScene(1, LoadSceneMode.Additive);
+            SceneManager.LoadScene(1);
         }
 
        public void OnExitClick()
